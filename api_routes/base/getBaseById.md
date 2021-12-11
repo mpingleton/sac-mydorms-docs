@@ -1,4 +1,4 @@
-# Get Base By Id
+# Get Base By ID
 
 ## GET /api/base/:id
 
