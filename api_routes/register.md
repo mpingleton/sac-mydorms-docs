@@ -2,7 +2,9 @@
 
 ## POST /api/auth/register
 
+## Access Control
 
+No access control restrictions exist for this route.
 
 ## Expected Inputs
 
