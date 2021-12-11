@@ -2,6 +2,8 @@
 
 ## POST /api/auth/register
 
+Create a new user account using a provided registration code.
+
 ## Access Control
 
 No access control restrictions exist for this route.
@@ -14,19 +16,14 @@ No params expected.
 
 ### Headers
 
-Authorization: Bearer ${jwtAccessToken}
-
-Content-Type: application/json
+- Content-Type: application/json
 
 ### Body
 
 JSON object containing keys:
-
-"username": A string between 3 and 60 characters long containing the username of the new account.
-
-"password": A string containing the password to assign to the new account.
-
-"code": A string containing the registration code needed to create the account.
+- "username": A string between 3 and 60 characters long containing the username of the new account.
+- "password": A string containing the password to assign to the new account.
+- "code": A string containing the registration code needed to create the account.
 
 ## Output
 
