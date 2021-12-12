@@ -1,6 +1,6 @@
 # Get Common Area Post Comments
 
-## METHOD /api/commonarea/comments
+## GET /api/commonarea/comments
 
 Get all of the common area posts that are stored in the database.
 
