@@ -17,6 +17,7 @@ No params expected.
 ### Headers
 
 - Authorization: Bearer ${jwtAccessToken}
+- Content-Type: application/json
 
 ### Body
 
