@@ -21,6 +21,7 @@ No params expected.
 
 ### Body
 
+A JSON object containing the following keys:
 - personnelId: An integer corresponding to the requested person.
 
 ## Output
