@@ -27,4 +27,3 @@ No body expected.
 ### 200
 
 A `200 OK` response with a body containing a JSON object containing an array of enrollments.
-

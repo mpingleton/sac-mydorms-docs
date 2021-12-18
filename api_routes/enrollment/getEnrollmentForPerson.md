@@ -27,4 +27,3 @@ No body expected.
 ### 200
 
 A `200 OK` response will be sent with the response body containing a JSON object with the enrollment data.  This JSON object will also contain a userObject and personnelObject.
-
