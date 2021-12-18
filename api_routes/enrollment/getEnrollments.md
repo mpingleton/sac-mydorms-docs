@@ -8,12 +8,6 @@ Get all of the user and personnel record enrollments in the database.
 
 Only authenticated users presenting a valid JWT token may access this route.
 
-Only dorm managers may access this route.
-
-This route may be accessed by residents or dorm managers.
-
-Only residents may access this route.
-
 ## Expected Inputs
 
 ### Params
