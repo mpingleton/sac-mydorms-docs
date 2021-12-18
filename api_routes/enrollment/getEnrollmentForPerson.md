@@ -2,7 +2,7 @@
 
 ## GET /api/enrollment/personnel/:personnelId
 
-Get the enrollment information 
+Get the enrollment information for a specific person.
 
 ## Access Control
 
